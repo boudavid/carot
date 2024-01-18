@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "trail blazers.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
